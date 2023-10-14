@@ -45,6 +45,7 @@ nav .right{
     text-decoration: none;
     margin-left: 30px;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 #navbar .fa{
